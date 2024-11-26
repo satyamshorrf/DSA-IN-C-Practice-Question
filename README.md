@@ -1,5 +1,20 @@
 # List of Free Learning Resources
 
+![IMG_20241127_022313](https://github.com/user-attachments/assets/9a045875-513b-41ef-9a08-fca775a532de)
+
+![IMG_20240328_055337](https://github.com/user-attachments/assets/3dcadcb6-618b-4054-96c7-93e6005a862e)
+
+![IMG_20241127_021924](https://github.com/user-attachments/assets/206e968c-731c-4734-ad3c-af228ff21ad4)
+
+![IMG_20241127_025224](https://github.com/user-attachments/assets/14e1c56f-084e-4f8d-9b0d-9bf23500a5b3)
+
+![IMG_20241127_022106](https://github.com/user-attachments/assets/fb969018-64fb-4acf-b443-369a61f02d1f)
+
+![IMG_20241127_022042](https://github.com/user-attachments/assets/7b6e2503-e566-439c-915d-3b4d261d3c26)
+
+![IMG_20241127_022015](https://github.com/user-attachments/assets/bb24359d-29fb-43a0-95bc-ef887d071523)
+
+
   -: Algorithms and Their Categories :-
 
 # Dynamic Programming:
